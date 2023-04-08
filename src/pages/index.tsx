@@ -2,13 +2,14 @@ import Head from "next/head";
 import { Image } from "@/component/Image";
 import { useEffect, useState } from "react";
 import { VStack, Text, Button, Box } from "@chakra-ui/react";
+import { useRouter } from "next/router";
 
 export default function Home() {
-  const [innerHeight, setInnerHeight] = useState<number>(0);
+  const router = useRouter();
 
-  useEffect(() => {
-    setInnerHeight(window.innerHeight - 78);
-  }, []);
+  const handleLogin = () => {
+    router.push("today-you-want", undefined, { shallow: true });
+  };
 
   return (
     <VStack
@@ -51,6 +52,7 @@ export default function Home() {
         color="white"
         bgColor="blue.500"
         _hover={{ bgColor: "blue.600" }}
+        onClick={handleLogin}
       >
         Google Login
       </Button>

@@ -7,7 +7,9 @@ export const theme = extendTheme({
     ...colors,
   },
   ...typography,
-  fontSizes: {},
+  fontSizes: {
+    "2xs": "0.625rem",
+  },
   radii: {
     "1": "0.25rem",
     "4": "1rem",
@@ -23,11 +25,13 @@ export const theme = extendTheme({
     "12": "3rem",
     "16": "4rem",
     "18": "4.5rem",
+    "19": "4.75rem",
     "20.75": "5.1875rem",
     "30": "7.5rem",
     "32.75": "8.1875rem",
     "34.75": "8.6875rem",
     "45": "11.25rem",
+    "50": "12.5rem",
     "65.5": "16.375rem",
   },
   sizes: {
