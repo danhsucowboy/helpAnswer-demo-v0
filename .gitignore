@@ -36,3 +36,9 @@ next-env.d.ts
 
 # deps
 .deps
+
+#firebase
+/.firebaserc
+
+# github
+/.github
