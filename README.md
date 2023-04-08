@@ -1,6 +1,6 @@
 # HelpAnswer - A help-to-earn, new type social platform
 
-![logo_sq_v0](https://user-images.githubusercontent.com/50972884/230715409-3f742712-3ee1-48f3-bbc9-d755bc8a6613.png)
+![logo_v1](https://user-images.githubusercontent.com/50972884/230719968-29efb3c6-22a9-40ae-ab66-01c15e5f5cd3.png)
 
 ## Vision
 A help-to-earn, new type social platform, give a light to the lost you
