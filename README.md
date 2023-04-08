@@ -15,5 +15,5 @@ Whether employing your unique, enigmatic divination techniques or sharing your o
 ## Team: D&R Labs
 
 ### Members:
-Dan | Full stack | rockluckycat@gmail.com
-Randy | PM | gunplahsu@gmail.com
+- Dan | Full stack | rockluckycat@gmail.com
+- Randy | PM | gunplahsu@gmail.com
