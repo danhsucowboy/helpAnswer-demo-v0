@@ -16,29 +16,34 @@ interface IQUESTION {
     event Minted(address indexed seeker, uint256 indexed tokenId);
     event Destroyed(address indexed seeker, uint256 indexed tokenId);
 
-    //Only Seeker can call this function
+    // There will have a helper function to execute this function, so seekers don't need to pay gas fee
     function extendExpirationDate(
         uint256 tokenId,
         uint256 newExpirationDate,
         string memory metadataId
     ) external;
 
-    //Only Seeker can call this function
+    // There will have a helper function to execute this function, so seekers don't need to pay gas fee
     function modifyReward(
         uint256 tokenId,
         uint256 newReward,
         string memory metadataId
     ) external;
 
-    //Only Master can call this function
-    function addAnswer(uint256 tokenId, string memory answerURL) external;
+    // There will have a helper function to execute this function, so master don't need to pay gas fee
+    function addAnswer(uint256 tokenId, address master, string memory answerURL) external;
+
+    //For Master to check it's answer
+    function checkAnswer(
+        uint256 tokenId
+    ) external view returns (MasterAnswer memory answer);
 
     //Only Seeker and Owner can call this function
     function getAnswers(
         uint256 tokenId
     ) external view returns (string[] memory answers);
 
-    //Only Seeker can call this function
+    // There will have a helper function to execute this function, so seekers don't need to pay gas fee
     function setSolved(
         uint256 tokenId,
         uint256 indexOfMaster,
