@@ -14,9 +14,6 @@ We are now launching a social platform that revolutionizes the traditional appro
 
 Whether employing your unique, enigmatic divination techniques or sharing your own personal life experiences, you can assist others in navigating the complexities of their life paths. In doing so, you can illuminate their journey by offering a guiding light in your own distinct style.
 
-## Web Interface
-https://github.com/danhsucowboy/helpAnswer-demo-interface-v0
-
 ## Team: D&R Labs
 
 ### Members:
