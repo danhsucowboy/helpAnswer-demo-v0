@@ -14,6 +14,10 @@ We are now launching a social platform that revolutionizes the traditional appro
 
 Whether employing your unique, enigmatic divination techniques or sharing your own personal life experiences, you can assist others in navigating the complexities of their life paths. In doing so, you can illuminate their journey by offering a guiding light in your own distinct style.
 
+## PPT
+
+https://docs.google.com/presentation/d/1bw3YGbDsmxuJ5F26gU0MJ-Ai21uR4CYa-SwuprbOUYg/edit?usp=sharing
+
 ## Team: D&R Labs
 
 ### Members:
