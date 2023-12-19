@@ -16,10 +16,10 @@ Whether employing your unique, enigmatic divination techniques or sharing your o
 
 ## PPT
 
-https://docs.google.com/presentation/d/1bw3YGbDsmxuJ5F26gU0MJ-Ai21uR4CYa-SwuprbOUYg/edit?usp=sharing
+[Slide Link](https://docs.google.com/presentation/d/1ZbO6ZcOnIYK-AKBnSFLG08ySZkZ-ixWkgKO4vOaOzxA/edit#slide=id.p)
 
-## Team: D&R Labs
+## Team: Bucket Team
 
 ### Members:
-- Dan | Full stack | rockluckycat@gmail.com
-- Randy | PM | gunplahsu@gmail.com
+- Dan | Frontend Dev | rockluckycat@gmail.com
+- Ashley | Smart Contract | ashirleyshe@gmail.com
